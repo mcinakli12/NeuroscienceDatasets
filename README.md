@@ -28,5 +28,3 @@ https://github.com/MacAskillLab/Wee_2020_TRIO
 </a>-->
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mcinakli12/NeuroscienceDatasets/HEAD?labpath=analysis.ipynb)
-
-test 
