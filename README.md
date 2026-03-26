@@ -20,7 +20,7 @@ https://www.macaskilllab.com
 
 https://github.com/MacAskillLab/Wee_2020_TRIO
 
-# TRIO Cell Distribution Analysis
+## TRIO Cell Distribution Analysis
 
 This repository contains analysis of TRIO-labelled neurons across AP, ML, and DV axes.
 
