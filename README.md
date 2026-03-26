@@ -26,8 +26,7 @@ This repository contains analysis of TRIO-labelled neurons across AP, ML, and DV
 
 ## Figures
 - 3D spatial distribution of cells
-- AP vs DV analysis
-- AP vs ML analysis
+- Projection composition along the AP axis
 
 ## Jupyter Notebook
 
