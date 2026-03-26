@@ -1,38 +1,25 @@
-# Biased connectivity in ventral subiculum  
+# TRIO Cell Distribution Analysis
 
-Biased connectivity of brain-wide inputs to ventral subiculum output neurons. Dataset of 3D positions for cells and where they project to. Datasets are from UCL Macaskill Lab. 
+This repository contains analysis of TRIO-labelled neurons in the ventral subiculum, based on the dataset from Wee & MacAskill (2020).
 
-## Name of PI  
+## Dataset
+The data used in this analysis comes from:
 
-Andrew F. MacAskill
+Wee, R.W.S. & MacAskill, A.F. (2020)  
+*Biased Connectivity of Brain-wide Inputs to Ventral Subiculum Output Neurons*  
+Cell Reports
 
-## Lab website  
-
-https://www.macaskilllab.com
-
-## Publication which uses/describes the dataset 
-
-[Ryan W.S. Wee, Andrew F. MacAskill, **Biased Connectivity of Brain-wide Inputs to Ventral Subiculum Output Neurons**, Cell Reports, Volume 30, Issue 11, 2020](https://www.sciencedirect.com/science/article/pii/S2211124720302679)
-
-<img src="images/1-s2.0-S2211124720302679-fx1_lrg.jpg" width="300"/>
-
-## Link(s) to dataset/supplementary information  
-
+Dataset source:  
 https://github.com/MacAskillLab/Wee_2020_TRIO
 
-## TRIO Cell Distribution Analysis
+## Analysis Overview
 
-This repository contains analysis of TRIO-labelled neurons across AP, ML, and DV axes.
+The aim of this project is to examine how projection-defined neuronal populations (vS→PFC, vS→NAc, vS→LH) are spatially organised.
 
 ## Figures
-- 3D spatial distribution of cells
-- Projection composition along the AP axis (similar to graph 1L in the paper)
 
-## Jupyter Notebook
+- **3D spatial distribution**  
+  Visualisation of cell locations across AP, ML, and DV axes.
 
-<!-- Colab is not trivial to use... It won't include all files in the repository, as Binder does
-<a target="_blank" href="https://colab.research.google.com/github/OpenNeuroAI/DataSkillsforNeuroscientists/blob/main/notebooks/GurnaniData.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>-->
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mcinakli12/NeuroscienceDatasets/HEAD?labpath=analysis.ipynb)
+- **Projection composition along the AP axis**  
+  Shows how the proportion of projection-defined neurons changes along the anterior–posterior axis (similar to Fig 1L in the paper).
