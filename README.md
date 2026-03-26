@@ -1,6 +1,6 @@
 # Biased connectivity in ventral subiculum  
 
-Biased connectivity of brain-wide inputs to ventral subiculum output neurons. Dataset of 3D positions for cells and where they project to. Datasets are from UCL Macaskill Lab 
+Biased connectivity of brain-wide inputs to ventral subiculum output neurons. Dataset of 3D positions for cells and where they project to. Datasets are from UCL Macaskill Lab. 
 
 ## Name of PI  
 
@@ -19,6 +19,15 @@ https://www.macaskilllab.com
 ## Link(s) to dataset/supplementary information  
 
 https://github.com/MacAskillLab/Wee_2020_TRIO
+
+# TRIO Cell Distribution Analysis
+
+This repository contains analysis of TRIO-labelled neurons across AP, ML, and DV axes.
+
+## Figures
+- 3D spatial distribution of cells
+- AP vs DV analysis
+- AP vs ML analysis
 
 ## Jupyter Notebook
 
